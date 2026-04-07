@@ -23,9 +23,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,dotnet,html,js,py,cs,figma,xd&perline=5)](https://skillicons.dev)
 
-![Ubaidkhan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaid321&show_icons=true&theme=dark)
+![Ubaidkhan GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaidkhan321&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidkhan321&layout=compact&theme=dark)
 
 
 <br>
